@@ -5,5 +5,5 @@ pmain:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About_Derp"
+  - title: "About"
     url: /about/
