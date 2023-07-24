@@ -7,6 +7,7 @@ This page should show up under /test/
 Lets try some HTML!
 
 # and markdown
+## now we make some changes!
 
 <img src='/assets/images/bio-photo.jpg'>
 
