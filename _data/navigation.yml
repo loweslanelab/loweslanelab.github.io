@@ -1,4 +1,6 @@
 pmain:
+  - title: "Homepage"
+    url: /
   - title: "Posts"
     url: /posts/
   - title: "Categories"
